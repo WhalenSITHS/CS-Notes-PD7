@@ -16,8 +16,11 @@ body {
 div {
   height: 100vh;
   text-align: center;
-
+  letter-spacing: 4px;
+  line-height: 3px;
+  font-family: "Freckle Face", cursive;
   color: white;
+  font-weight: 700;
 }
 h1 {
   font-size: 75px;
